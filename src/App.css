@@ -1,0 +1,18 @@
+.good{
+  background-color: green;
+}
+.satisfactory{
+  background-color:greenyellow;
+}
+.moderate{
+  background-color: yellow;
+}
+.poor{
+  background-color:orange;
+}
+.veryPoor{
+  background-color:orangered;
+}
+.severe{
+  background-color:maroon;
+}
